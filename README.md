@@ -1,0 +1,5 @@
+- Hi, I’m Austin!
+- I’m interested in finding trends and solving problems using data analytics.
+- I am currently looking to get my career in analytics off of the ground.
+- I’m currently learning deeper into the Pandas and Matplotlib libraries of Python.
+- How to reach me: My email is lawrence.austin9108@gmail.com
